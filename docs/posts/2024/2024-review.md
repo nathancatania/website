@@ -10,7 +10,7 @@ draft: false
 comments: false
 ---
 
-This post is really just to serve as a personal time capsule/list of things I did in 2024 that I will likely come back to read in the distant future. If your reading this and you're not me, thanks for being here! 
+This post is really just to serve as a personal time capsule/list of things I did in 2024 that I will likely come back to read in the distant future. If you're reading this and you're not me, thanks for being here!
 
 ## Job/Career
 - Glean: Solutions Engineering Lead, APAC
