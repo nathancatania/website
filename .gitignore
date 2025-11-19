@@ -149,3 +149,7 @@ translate.py
 migrate.py
 consistency-report.md
 site/
+
+scripts/
+tmp.mdx
+*.bak
