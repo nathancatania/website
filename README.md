@@ -1,5 +1,4 @@
 # Personal Website
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1958f9dd-27c6-42b8-b7d9-f11d4dc2f0eb/deploy-status)](https://app.netlify.com/sites/icebreaker-382490/deploys)
 
 My personal website ([nathancatania.com](https://nathancatania.com)) created with [Mkdocs Material](https://github.com/squidfunk/mkdocs-material) and served with [Cloudflare Pages](https://pages.cloudflare.com/).
 

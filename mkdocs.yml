@@ -4,7 +4,7 @@ site_description: "Official Website of Nathan Catania"
 repo_url: https://github.com/nathancatania/website
 repo_name: nathancatania/website
 edit_uri: edit/master/docs/
-copyright: "&copy; 2024, Nathan Catania"
+copyright: "&copy; 2025, Nathan Catania"
 
 theme:
   name: material
@@ -31,7 +31,7 @@ theme:
     # Automatically switches between light & dark modes based on system
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      
+
       scheme: default
       primary: blue
       accent: blue
@@ -65,10 +65,10 @@ markdown_extensions:
   - md_in_html
 
 extra:
-  cli: "$ cd /home/nathan"
+  cli: "$ ls /home/nathan"
   generator: false
   subtitle: "B.Eng (Hons, 1st) // Australia // AI // Cybersec"
-  avatar: assets/avatar.png
+  avatar: assets/avatar.JPG
   socials:
     - linkedin: https://www.linkedin.com/in/nathancatania/
 
